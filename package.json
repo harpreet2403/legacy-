@@ -1,0 +1,23 @@
+{
+  "name": "khalsa",
+  "version": "1.0.0",
+  "description": "test application",
+  "main": "URL.js",
+  "dependencies": {
+    "upper-case": "^1.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harpreet2403/legacy-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harpreet2403/legacy-/issues"
+  },
+  "homepage": "https://github.com/harpreet2403/legacy-#readme"
+}
